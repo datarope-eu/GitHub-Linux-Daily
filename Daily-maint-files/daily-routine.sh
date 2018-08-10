@@ -10,7 +10,7 @@ sudo apt autoremove -y
 echo '---'
 echo 'Continuing with WP-CLI commands'
 wp theme status --path=/.../path-to-root/
-wp theme update --path=/.../path-to-root/
+wp theme update --all --path=/.../path-to-root/
 
 wp plugin status --path=/.../path-to-root/
 wp plugin update --all --path=/.../path-to-root/
