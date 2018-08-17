@@ -8,4 +8,4 @@ Content can change quickly and, ultimately even without further notice.
 
 Preserve Poetry!
 
-[Passwords and *Salts*]: PW-Salts-Illustration.png "Illustration on the function of password salts"
+[Passwords and *Salts*]: (PW-Salts-Illustration.png) "Illustration on the function of password salts"
